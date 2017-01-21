@@ -1,0 +1,5 @@
+function getColorStringFromData(data) {
+
+
+	return 
+}
